@@ -1,0 +1,14 @@
+.local-data/
+.qa/
+node_modules/
+client/dist/
+.env
+.env.*
+!.env.example
+!.env.production.example
+*.log
+*.tsbuildinfo
+coverage/
+.DS_Store
+Thumbs.db
+/Campus_Care_Source.zip
