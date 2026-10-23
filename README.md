@@ -92,7 +92,7 @@ Official references: [Render Express guide](https://render.com/docs/deploy-node-
 - docs/Campus_Care_SRS.docx contains the software requirements.
 - docs/Campus_Care_Internship_Report.docx follows the supplied report template.
 
-**Repository:** https://github.com/albertjaison18/campus-care (created; source upload pending GitHub write access).\n\n**Deployment status:** a hosted URL has not yet been created. Local screenshots demonstrate implementation; repeat acceptance testing on the live deployment before submission.
+**Repository:** https://github.com/albertjaison18/campus-care.\n\n**Deployment status:** a hosted URL has not yet been created. Local screenshots demonstrate implementation; repeat acceptance testing on the live deployment before submission.
 
 ## Known limits
 
@@ -101,6 +101,7 @@ No email verification, password reset, image upload, email notifications, instit
 ## Submission
 
 Planning target: **6 November 2026**. Confirm the actual deadline with the institution. Submission requires the SRS, final report, public GitHub URL, hosted URL, and screenshots. Complete publication checks before submitting.
+
 
 
 

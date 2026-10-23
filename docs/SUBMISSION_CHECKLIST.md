@@ -26,7 +26,7 @@ The report template requires executive summary, introduction, objectives, scope 
 
 - [ ] Confirm topic approval if the instructor requires it.
 - [ ] Confirm the official submission deadline.
-- [ ] Publish a public GitHub repository using the student's account.
+- [x] Publish the full source to https://github.com/albertjaison18/campus-care.
 - [ ] Configure a production MongoDB.
 - [ ] Deploy over HTTPS and create a production administrator.
 - [ ] Test the complete workflow on the live URL.
@@ -48,6 +48,7 @@ The report template requires executive summary, introduction, objectives, scope 
 | 6 November | Planning target for submission |
 
 Future milestones are proposed, not completed.
+
 
 
 
