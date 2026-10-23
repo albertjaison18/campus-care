@@ -81,7 +81,7 @@ Express serves both the API and client/dist, so the frontend and API share an or
 7. In a trusted environment, set ADMIN_EMAIL and ADMIN_PASSWORD and run **npm run create-admin -w server**. Remove ADMIN_PASSWORD from hosting configuration afterward.
 8. Verify registration, login, reporting, comments, admin updates, and logout on the live URL.
 
-Official references: [Render Express guide](https://render.com/docs/deploy-node-express-app) and [Atlas IP access](https://www.mongodb.com/docs/atlas/security/ip-access-list/). No hosting plan or paid resource has been provisioned.
+Official references: [Render Express guide](https://render.com/docs/deploy-node-express-app) and [Atlas IP access](https://www.mongodb.com/docs/atlas/security/ip-access-list/). The submitted application runs on a Render Free web service with MongoDB Atlas Free. No paid resource was provisioned. Free instances sleep after inactivity, so the first request may take around a minute.
 
 ## Verification and documentation
 
@@ -92,7 +92,11 @@ Official references: [Render Express guide](https://render.com/docs/deploy-node-
 - docs/Campus_Care_SRS.docx contains the software requirements.
 - docs/Campus_Care_Internship_Report.docx follows the supplied report template.
 
-**Repository:** https://github.com/albertjaison18/campus-care.\n\n**Deployment status:** a hosted URL has not yet been created. Local screenshots demonstrate implementation; repeat acceptance testing on the live deployment before submission.
+**Repository:** https://github.com/albertjaison18/campus-care.
+
+**Live application:** https://campus-care-h82p.onrender.com
+
+**Deployment status:** deployed over HTTPS on Render Free with MongoDB Atlas. The live registration, reporting, comments, assignment and resolution journey passed on 23 October 2026. Screenshots show fictional demonstration data from the hosted application. Create a student account to explore it. Administrator credentials are kept outside the repository.
 
 ## Known limits
 
@@ -101,7 +105,3 @@ No email verification, password reset, image upload, email notifications, instit
 ## Submission
 
 Planning target: **6 November 2026**. Confirm the actual deadline with the institution. Submission requires the SRS, final report, public GitHub URL, hosted URL, and screenshots. Complete publication checks before submitting.
-
-
-
-

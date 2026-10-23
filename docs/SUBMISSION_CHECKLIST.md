@@ -27,14 +27,16 @@ The report template requires executive summary, introduction, objectives, scope 
 - [ ] Confirm topic approval if the instructor requires it.
 - [ ] Confirm the official submission deadline.
 - [x] Publish the full source to https://github.com/albertjaison18/campus-care.
-- [ ] Configure a production MongoDB.
-- [ ] Deploy over HTTPS and create a production administrator.
-- [ ] Test the complete workflow on the live URL.
-- [ ] Add verified repository and live URLs to the report and README.
-- [ ] Confirm screenshots match the submitted version.
+- [x] Configure MongoDB Atlas with a database-scoped app user and restricted network ranges.
+- [x] Deploy over HTTPS and create a production administrator.
+- [x] Test registration, reporting, comments, admin assignment/resolution, logout, filters, and mobile layout on the live URL.
+- [x] Add verified repository and live URLs to the report and README.
+- [x] Capture screenshots from the submitted hosted version.
 - [ ] Review documents and practise explaining the implementation.
 - [ ] Upload the SRS to its assignment.
 - [ ] Upload the report with all required links and screenshots.
+
+Live application: https://campus-care-h82p.onrender.com
 
 ## Proposed schedule
 
@@ -48,7 +50,3 @@ The report template requires executive summary, introduction, objectives, scope 
 | 6 November | Planning target for submission |
 
 Future milestones are proposed, not completed.
-
-
-
-
